@@ -27,9 +27,9 @@ npm i
 
   ## Usage
   After installing the dependencies, run npm start to launch the application.
-  <br>
-  ![Alt Text](https://github.com/ttngu/GoogleBook/blob/main/assets/gbScreencap.png)
-  ![Alt Text](https://github.com/ttngu/GoogleBook/blob/main/assets/gbScreencap2.png)
+
+  ![ScreenCap1](../client/assets/gbScreenshot.png)
+
  
   <br>
   <br>
